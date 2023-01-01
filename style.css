@@ -1,0 +1,87 @@
+header h1 {
+    color: red;
+    text-align: center;
+}
+
+header nav {
+    text-align: center;
+    margin-left: -25px;
+}
+
+header nav ul {
+    list-style-type: none;
+
+}
+
+header nav ul li {
+    display: inline-block;
+    padding: 5px;
+
+}
+
+header nav ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+header nav ul li a:hover {
+    color: red;
+}
+
+.birinci__bolum {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.birinci__bolum h2 {
+    color: purple;
+}
+
+.birinci__bolum p>a {
+    color: purple;
+}
+
+.ikinci__bolum {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.ikinci__bolum h2 {
+    color: rgb(252, 176, 12);
+}
+
+.ikinci__bolum ul>li {
+    list-style-position: inside;
+}
+
+
+
+.urun {
+    display: block;
+    text-align: center;
+}
+
+.urun .urun__image {
+    width: 250px;
+    height: 350px;
+}
+
+.urun span {
+    font-weight: bold;
+}
+
+.card {
+    margin: 0 auto;
+    width: 40%;
+}
+
+
+
+.container {
+    padding: 2px 16px;
+}
+
+.misyonumuz h2,
+.vizyonumuz h2 {
+    color: blueviolet;
+}
